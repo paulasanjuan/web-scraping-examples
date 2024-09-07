@@ -1,0 +1,12 @@
+C:\Users\bysan\OneDrive\Escritorio\Paula\MBDS\Recogida_datos\paula_sanjuan_campos\ent_2_local.py:45: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2.drop('ord_brth', axis=1, inplace=True)
+C:\Users\bysan\OneDrive\Escritorio\Paula\MBDS\Recogida_datos\paula_sanjuan_campos\ent_2_local.py:74: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_reduced['pred_place_holder'] =1
+<Response [200]>
